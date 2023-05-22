@@ -2,4 +2,4 @@
 ## Buid with Html and css 
 
 ### iNeuron task
-![images](./images/screen%20shot.png)
+![images](images/screen%20shot.png)
