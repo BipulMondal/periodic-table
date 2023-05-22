@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.main {
+    margin-top: 5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color:#ecf3f8 ;
+
+}
+.head {
+    display: flex;
+}
+#img {
+    height: 1rem;
+}
+h6 {
+ font-size: 0.5rem;
+}
+.stage {
+    width: 63.5%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0.5rem;
+    
+}
+.group {
+    display: flex;
+    margin-left: -5px;
+}
+.numbers {
+    height: 2.2rem;
+    width: 2.5rem;
+    margin-left: 0.4rem;
+}
+.left, .middle, .right {
+    display: flex;
+    justify-content: space-between;
+}
+
+.red {
+    height: 2.2rem;
+    width: 2.2rem;
+    border: 2px solid black;
+    text-align: center;
+    background-color: #f0552e;
+    margin-left: 0.5rem;
+}
+.yellow{
+    height: 2.2rem;
+    width: 2.2rem;
+    border: 2px solid black;
+    text-align: center;
+    background-color: #ffff2a;
+    margin-left: 0.5rem;
+}
+.blue {
+    height: 2.2rem;
+    width: 2.2rem;
+    border: 2px solid black;
+    text-align: center;
+    background-color: #2f2ff5;
+    margin-left: 0.5rem;
+}
+.star {
+    width: 1.5rem;
+    height: 2.5rem;
+    margin-left: 0.2rem;
+}
+.last {
+    margin-top: 1rem;
+    margin-left: 1em;
+}
+.stages {
+    width: 49%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0.5rem;
+}
+.center {
+    display: flex;
+    justify-content: space-between;
+}
+.green {
+    height: 2.2rem;
+    width: 2.2rem;
+    border: 2px solid black;
+    text-align: center;
+    background-color: rgb(5, 125, 5);
+    margin-left: 0.5rem;
+}
